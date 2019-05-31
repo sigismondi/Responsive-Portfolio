@@ -1,4 +1,17 @@
+@media screen and (max-width: 640px) {
+
+}
+	
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 980px) {
+
+}
+
 h1 {
+   
     font-family: "Georgia", Times, "Times New Roman", serif;
     font-weight: bold;
     font-size: 24px;
@@ -235,4 +248,16 @@ padding-top: 40px;
 padding-bottom: 40px;
 border-top: 10px solid #4aaaa5;
 clear: both;
+}
+
+@media screen and (max-width: 640px) {
+
+}
+	
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 980px) {
+
 }
